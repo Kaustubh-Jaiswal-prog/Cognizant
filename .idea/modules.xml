@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdapterPatternExample/AdapterPatternExample.iml" filepath="$PROJECT_DIR$/AdapterPatternExample/AdapterPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderPatternExample/BuilderPatternExample.iml" filepath="$PROJECT_DIR$/BuilderPatternExample/BuilderPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethodPatternExample/FactoryMethodPatternExample.iml" filepath="$PROJECT_DIR$/FactoryMethodPatternExample/FactoryMethodPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonPatternExample/SingletonPatternExample.iml" filepath="$PROJECT_DIR$/SingletonPatternExample/SingletonPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_FSE.iml" filepath="$PROJECT_DIR$/java_FSE.iml" />
+    </modules>
+  </component>
+</project>
